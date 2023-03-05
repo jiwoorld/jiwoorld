@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text&fontAlign=70&fontSize=40&fontColor=000049)
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiwoorld&theme=tokyonight&show_icons=true" width="47%" />
 </a>
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiwoorld&theme=nord_dark)
