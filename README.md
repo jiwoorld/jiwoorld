@@ -1,11 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text&fontAlign=70&fontSize=40&fontColor=000049)
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiwoorld&theme=tokyonight&show_icons=true" width="47%" />
-</a>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiwoorld&theme=nord_dark)
-
 <div align=center><h1>📚 STACKS</h1></div>
-
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -31,19 +24,10 @@
   <br>
 </div>
 
-
-
-<!--
-**jiwoorld/jiwoorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align=center><h1>history</h1></div>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiwoorld&theme=tokyonight&show_icons=true" width="40%" />
+</a>
+<br>
+<br>
