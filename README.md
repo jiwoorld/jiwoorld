@@ -2,7 +2,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=jiwoorld&theme=tokyonight&show_icons=true" width="47%" />
 </a>
-<img src="https://raw.githubusercontent.com/jiwoorld/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiwoorld&theme=nord_dark)
 
 <div align=center><h1>📚 STACKS</h1></div>
