@@ -25,9 +25,4 @@
 </div>
 
 <br>
-<div align=center><h1>history</h1></div>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiwoorld&theme=tokyonight&show_icons=true" width="40%" />
-</a>
-<br>
 <br>
